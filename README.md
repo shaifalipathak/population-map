@@ -1,0 +1,2 @@
+# population-map
+This is a world map which will help you know the population of each country. Click on the blue area to view the map different colors indicating different population range, as specified in the bottom-right corner. Zoom in or zoom out options are available on the top-left corner, zoom in thrice to see the exact population of countries. Place your cursor over the square icon made on the top-right corner, select according to your requirement select from the given options.
